@@ -34,7 +34,7 @@ public static void main(String[] args) {
 	    };
 	    x4.sayHello("LALA");
 	    
-	    X x5= n->System.out.println("jiyo or jeene do :"+ n);
+	    X x5=  n->System.out.println("jiyo or jeene do :"+ n);
 	    x5.sayHello("Bro");
 }
 }
